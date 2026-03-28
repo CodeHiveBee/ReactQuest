@@ -31,4 +31,4 @@ To execute the project, simply run the following commands in the terminal:
 
    ✅ Add navigation (React Router)
 
-- By [felipepastana.com](https://laravel.felipepastana.com)
+- By [felipepastana.com](https://felipepastana.com)
